@@ -1,4 +1,6 @@
-[REF](https://github.com/kyrelldixon/next-tailwind-typescript-starter)
+# REF
+
+[Tailwind CSS + TypeScript + Next.js Starter](https://github.com/kyrelldixon/next-tailwind-typescript-starter)
 
 # Tailwind CSS + TypeScript + Next.js Starter
 
